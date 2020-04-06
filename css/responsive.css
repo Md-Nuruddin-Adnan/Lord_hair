@@ -1,0 +1,503 @@
+
+@media (max-width: 575.98px) { 
+
+    .bannerImage {
+        width: 250% !important;
+        position: relative;
+        left: -150px;
+    }
+    
+    .banner_part{
+        overflow: hidden;
+    }
+    
+    .banner_part .logo {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 78%;
+}
+    
+    .mab_left_image{
+        width: 60% !important;
+    }
+    
+    .mab_text_content{
+        padding-top: 0;
+    }
+    .mab_text_content h2{
+        font-size: 22px;
+        line-height: 38px;
+    }
+    
+    .stock_icon {
+	width: 60px;
+	margin: 22px 0;
+}
+    
+    .stock_content ul li:first-child{
+        padding-top: 20px;
+    }
+    
+    .stock_content ul li:last-child{
+        padding-bottom: 20px;
+    }
+    
+    .superskin_content ul li{
+        width: 100%;
+    }
+    
+    .superskin_content p {
+
+	letter-spacing: 2px;
+	padding: 10px 2px 47px 6px;
+	
+}
+
+    .for_better_content h4 {
+	color: #624e49;
+	font-family: myrid;
+	font-size: 32px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-top: 28px;
+}
+    
+    .for_better_content p {
+	padding-top: 16px;
+	font-size: 16px;
+	color: #795f5a;
+	font-family: myrid;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+    .for_better_content{
+        text-align: center;
+    }
+    
+    .invest_image{
+        padding: 0
+    }
+    .invest_text_content{
+        position: static;
+        width: 100%;
+    }
+    
+    .for_better_part {
+	    padding: 22px 0;
+        
+}
+    
+    .invest_text_content h2{
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    
+    .invest_text_content h2 span:first-child{
+        font-size: 60px;
+    }
+    
+    .invest_text_content h2 span:last-child{
+        font-size: 26px;
+    }
+    
+    .invest_text_content p{
+        padding: 0;
+    }
+    
+    .invest_part .container {
+	position: relative;
+	padding-top: 40px;
+	padding-bottom: 42px;
+}
+    
+    .sec_title ul li{
+        width: 100%;
+    }
+    
+    .sec_title ul {
+	margin-top: 46px;
+	padding-bottom: 40px;
+}
+    
+    .prevBtn {
+	position: absolute;
+	top: 104%;
+	left: 30%;
+	transform: translate(0, 0);
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	color: #e1e1e1;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 50%;
+}
+    .nextBtn {
+	position: absolute;
+	top: 104%;
+	right: 30%;
+	transform: translate(0, 0);
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	color: #e1e1e1;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 50%;
+}
+    
+    .product_slider_part {
+	padding-bottom: 111px;
+}
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+    .bannerImage {
+        width: 160% !important;
+    }
+    
+    .banner_part{
+        overflow: hidden;
+    }
+    
+    .banner_part .logo {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 55%;
+}
+    
+    .mab_left_image{
+        width: 45% !important;
+    }
+    
+    .mab_text_content{
+        padding-top: 0;
+    }
+    .mab_text_content h2{
+        font-size: 22px;
+        line-height: 38px;
+    }
+    
+    .stock_icon {
+	width: 60px;
+	margin: 22px 0;
+}
+    
+    .stock_content ul li:first-child{
+        padding-top: 20px;
+    }
+    
+    .stock_content ul li:last-child{
+        padding-bottom: 20px;
+    }
+    
+  
+    
+    .superskin_content p {
+
+	letter-spacing: 2px;
+	padding: 10px 2px 47px 6px;
+	
+}
+
+    .for_better_content h4 {
+	color: #624e49;
+	font-family: myrid;
+	font-size: 32px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-top: 28px;
+}
+    
+    .for_better_content p {
+	padding-top: 16px;
+	font-size: 16px;
+	color: #795f5a;
+	font-family: myrid;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+    .for_better_content{
+        text-align: center;
+    }
+    
+    .invest_image{
+        padding: 0
+    }
+    .invest_text_content{
+        position: static;
+        width: 100%;
+    }
+    
+    .for_better_part {
+	    padding: 22px 0;
+        
+}
+    
+    .invest_text_content h2{
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    
+    .invest_text_content h2 span:first-child{
+        font-size: 60px;
+    }
+    
+    .invest_text_content h2 span:last-child{
+        font-size: 26px;
+    }
+    
+    .invest_text_content p{
+        padding: 0;
+    }
+    
+    .invest_part .container {
+	position: relative;
+	padding-top: 40px;
+	padding-bottom: 42px;
+}
+    
+    .sec_title ul li{
+        width: 100%;
+    }
+    
+    .sec_title ul {
+	margin-top: 46px;
+	padding-bottom: 40px;
+}
+    
+    .prevBtn {
+	position: absolute;
+	top: 104%;
+	left: 38%;
+	transform: translate(0, 0);
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	color: #e1e1e1;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 50%;
+}
+    .nextBtn {
+	position: absolute;
+	top: 104%;
+	right: 38%;
+	transform: translate(0, 0);
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	color: #e1e1e1;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 50%;
+}
+    
+    .product_slider_part {
+	padding-bottom: 111px;
+}
+
+
+}
+
+@media(max-width: 767px){
+    .stock_content {
+        padding: 30px 0;
+    }
+
+    .skin_image li {
+        margin: 5px;
+    }
+
+    .skin_image {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+  
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+    .bannerImage {
+        width: 160% !important;
+    }
+    
+    .banner_part{
+        overflow: hidden;
+    }
+    
+    .banner_part .logo {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 55%;
+}
+    
+    .mab_part{
+        padding: 40px 0;`
+    }
+    
+    .mab_right_image{
+        display: none;
+    }
+  .mab_left_image {
+    width: 130% !important;
+    padding: 30px 0;
+}
+    .mab_text_content{
+        padding-top: 0;
+    }
+    .mab_text_content h2{
+        font-size: 22px;
+        line-height: 38px;
+    }
+    
+    .stock_icon {
+	width: 50px;
+	margin: 22px 0;
+}
+
+    
+  
+    
+    .superskin_content p {
+
+	letter-spacing: 2px;
+	padding: 10px 2px 47px 6px;
+	
+}
+    .skin_image {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .skin_image li{
+        width: 35%;
+    }
+
+    .for_better_content h4 {
+	color: #624e49;
+	font-family: myrid;
+	font-size: 32px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-top: 28px;
+}
+    
+    .for_better_content p {
+	padding-top: 16px;
+	font-size: 16px;
+	color: #795f5a;
+	font-family: myrid;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+    
+    .invest_image{
+        padding: 0
+    }
+    .invest_text_content{
+        position: static;
+        width: 100%;
+    }
+    
+    .for_better_part {
+	    padding: 22px 0;
+        
+}
+    
+    .invest_text_content h2{
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    
+    .invest_text_content h2 span:first-child{
+        font-size: 60px;
+    }
+    
+    .invest_text_content h2 span:last-child{
+        font-size: 26px;
+    }
+    
+    .invest_text_content p{
+        padding: 0;
+    }
+    
+    .invest_part .container {
+	position: relative;
+	padding-top: 40px;
+	padding-bottom: 42px;
+}
+    
+ 
+    
+    .sec_title ul {
+	margin-top: 46px;
+	padding-bottom: 40px;
+}
+    
+    .prevBtn {
+	position: absolute;
+	top: 104%;
+	left: 42%;
+	transform: translate(0, 0);
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	color: #e1e1e1;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 50%;
+}
+    .nextBtn {
+	position: absolute;
+	top: 104%;
+	right: 42%;
+	transform: translate(0, 0);
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	color: #e1e1e1;
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 50%;
+}
+    
+    .product_slider_part {
+	padding-bottom: 111px;
+}
+
+}
+
+
+@media(max-width: 1199.98px) {
+    .product_box .text h2 {
+        font-size: 22px;
+    }
+ }
+
+
+@media (min-width: 1200px) { ... }
